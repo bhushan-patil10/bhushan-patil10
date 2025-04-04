@@ -80,7 +80,7 @@
 
 <!-- ETL & Cloud -->
 <a href="https://www.informatica.com/" target="_blank">
-  <img src="https://media.licdn.com/dms/image/v2/D4E10AQHcnR-Gv2TXHw/image-shrink_800/B4EZX3sRpVH0Ac-/0/1743617334296?e=2147483647&v=beta&t=JhluHPmVbrI0cvl6Lcp_E1VaAdtDJjVKG2vLyrxBKSM" alt="Informatica" width="60" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJuAHuUBrAzS7tX28gDtKmudAX6FVcgJEiQ&s" alt="Informatica" width="60" height="40"/>
 </a>
 
 </p>
