@@ -57,6 +57,9 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://media.licdn.com/dms/image/D4D12AQEdwPECs269OA/article-cover_image-shrink_600_2000/0/1720599008340?e=2147483647&v=beta&t=hSsvRbuIs1sgBxdBd6JgUWmTDYcdyx0V7nxndk31riw" alt="Excel" width="60" height="40"/>
 </a>
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="40"/>
+</a>
 
 <!-- Python Libraries -->
 <a href="https://numpy.org/" target="_blank">
