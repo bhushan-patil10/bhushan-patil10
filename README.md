@@ -40,8 +40,8 @@
 <a href="https://www.python.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+<a href="https://aws.amazon.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -55,7 +55,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQEdwPECs269OA/article-cover_image-shrink_600_2000/0/1720599008340?e=2147483647&v=beta&t=hSsvRbuIs1sgBxdBd6JgUWmTDYcdyx0V7nxndk31riw" alt="Excel" width="60" height="40"/>
 </a>
 
 <!-- Python Libraries -->
@@ -63,7 +63,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="60" height="40"/>
 </a>
 <a href="https://matplotlib.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
@@ -72,16 +72,14 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/>
 </a>
 <a href="https://plotly.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkhwr0g3QnG13ZNt9VZLjIR8tfUgVi0SRyg&s" alt="Plotly" width="60" height="40"/>
 </a>
 
 <!-- ETL & Cloud -->
 <a href="https://www.informatica.com/" target="_blank">
-  <img src="https://seeklogo.com/images/I/informatica-logo-B6BA9F1A0D-seeklogo.com.png" alt="Informatica" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E10AQHcnR-Gv2TXHw/image-shrink_800/B4EZX3sRpVH0Ac-/0/1743617334296?e=2147483647&v=beta&t=JhluHPmVbrI0cvl6Lcp_E1VaAdtDJjVKG2vLyrxBKSM" alt="Informatica" width="60" height="40"/>
 </a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
+
 </p>
 
 ---
