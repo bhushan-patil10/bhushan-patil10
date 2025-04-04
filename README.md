@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/bhushan-patil-1515541a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhushan-patil-1515541a7" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/share/1bpc5fc4fu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bpc5fc4fu/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ninjaa_10?igsh=mxu3ow1rbwzrntjscq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ninjaa_10?igsh=mxu3ow1rbwzrntjscq==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@iambhushanpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@iambhushanpatil" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@iambhushanpatil?si=spfhtusnmeazlbh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@iambhushanpatil?si=spfhtusnmeazlbh3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
